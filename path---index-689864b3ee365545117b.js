@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{335:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"D:/blog/archer-learn/src/pages/2018-02-25/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Js fundamentals lession",date:"February 25, 2018",path:"/js-fundamentals",tags:["video","frontend","fundamentals"],excerpt:"Video from lesson about JS"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-689864b3ee365545117b.js.map
