@@ -27,7 +27,15 @@ excerpt: "Video from lesson about JS"
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/OF8vC6_o7EA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+---
+
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/jNdjZdMLPwk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### Date is 2018-02-20
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/XRmLi7vOz3g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/P6BP0eMwD9A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
