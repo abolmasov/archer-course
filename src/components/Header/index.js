@@ -23,7 +23,7 @@ const Header = () => (
             textDecoration: 'undeline',
           }}
         >
-          Acrher course
+          Abolmasov Blog
         </Link>
       </h1>
     </div>

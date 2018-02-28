@@ -1,7 +1,7 @@
 ---
 path: "/js-fundamentals"
 date: "2018-02-25T03:15:59.175Z"
-title: "Js fundamentals lession"
+title: "Js fundamentals lessions"
 tags: ['video', 'frontend', 'fundamentals']
 excerpt: "Video from lesson about JS"
 ---
@@ -27,7 +27,7 @@ excerpt: "Video from lesson about JS"
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/OF8vC6_o7EA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
----
+---s
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/jNdjZdMLPwk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
